@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React.js Mongo.db Express.js Node.js Tailwind.css Bootstrap**
 
-- 📫 How to reach me **sunndansharma600@gmail.com**
+- 📫 How to reach me **sundansharma600@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
