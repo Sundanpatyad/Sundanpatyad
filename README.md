@@ -13,7 +13,7 @@
 
 ### 🚀 What I'm Up To
 
-- 🔭 Currently working on **CHAT APP, Social App, E-Commerce App**
+- 🔭 Currently working on **AWAKENING CLASSES, CHAT APP, Social App, E-Commerce App**
 - 🌱 Diving deeper into **MERN Stack** and exploring **Next.js**
 - 👯 Looking to collaborate on exciting **Web Development** projects
 - 💬 Ask me about **React.js, MongoDB, Express.js, Node.js, Tailwind CSS, Bootstrap**
